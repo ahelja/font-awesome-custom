@@ -1,0 +1,19 @@
+{
+  "name": "font-awesome-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahelja/font-awesome-custom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahelja/font-awesome-custom/issues"
+  },
+  "homepage": "https://github.com/ahelja/font-awesome-custom#readme"
+}
