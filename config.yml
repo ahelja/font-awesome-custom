@@ -1,0 +1,2375 @@
+font:
+    svg:        fonts/fontawesome-webfont.svg
+    ttf:        fonts/fontawesome-webfont.ttf
+    eot:        fonts/fontawesome-webfont.eot
+    woff:       fonts/fontawesome-webfont.woff
+    css:        fonts/fontawesome-webfont.css
+    html:       fonts/fontawesome-webfont.html
+    name:       FontAwesome
+    prefix:     fa
+    fixedwidth: false
+    height:     1000
+    descent:    150
+    normalize:  true
+    center:     true
+    round:      10e12
+
+glyphs:
+    - glyph: glyphs/500px.svg
+      name: 500px
+      code: 0xF26E
+    - glyph: glyphs/address-book.svg
+      name: address_book
+      code: 0xF2B9
+    - glyph: glyphs/address-book-o.svg
+      name: address_book_o
+      code: 0xF2BA
+    - glyph: glyphs/address-card.svg
+      name: address_card
+      code: 0xF2BB
+    - glyph: glyphs/address-card-o.svg
+      name: address_card_o
+      code: 0xF2BC
+    - glyph: glyphs/adjust.svg
+      name: adjust
+      code: 0xF042
+    - glyph: glyphs/adn.svg
+      name: adn
+      code: 0xF170
+    - glyph: glyphs/align-center.svg
+      name: align_center
+      code: 0xF037
+    - glyph: glyphs/align-justify.svg
+      name: align_justify
+      code: 0xF039
+    - glyph: glyphs/align-left.svg
+      name: align_left
+      code: 0xF036
+    - glyph: glyphs/align-right.svg
+      name: align_right
+      code: 0xF038
+    - glyph: glyphs/amazon.svg
+      name: amazon
+      code: 0xF270
+    - glyph: glyphs/ambulance.svg
+      name: ambulance
+      code: 0xF0F9
+    - glyph: glyphs/american-sign-language-interpreting.svg
+      name: american_sign_language_interpreting
+      code: 0xF2A3
+    - glyph: glyphs/anchor.svg
+      name: anchor
+      code: 0xF13D
+    - glyph: glyphs/android.svg
+      name: android
+      code: 0xF17B
+    - glyph: glyphs/angellist.svg
+      name: angellist
+      code: 0xF209
+    - glyph: glyphs/angle-double-down.svg
+      name: angle_double_down
+      code: 0xF103
+    - glyph: glyphs/angle-double-left.svg
+      name: angle_double_left
+      code: 0xF100
+    - glyph: glyphs/angle-double-right.svg
+      name: angle_double_right
+      code: 0xF101
+    - glyph: glyphs/angle-double-up.svg
+      name: angle_double_up
+      code: 0xF102
+    - glyph: glyphs/angle-down.svg
+      name: angle_down
+      code: 0xF107
+    - glyph: glyphs/angle-left.svg
+      name: angle_left
+      code: 0xF104
+    - glyph: glyphs/angle-right.svg
+      name: angle_right
+      code: 0xF105
+    - glyph: glyphs/angle-up.svg
+      name: angle_up
+      code: 0xF106
+    - glyph: glyphs/apple.svg
+      name: apple
+      code: 0xF179
+    - glyph: glyphs/archive.svg
+      name: archive
+      code: 0xF187
+    - glyph: glyphs/area-chart.svg
+      name: area_chart
+      code: 0xF1FE
+    - glyph: glyphs/arrow-circle-down.svg
+      name: arrow_circle_down
+      code: 0xF0AB
+    - glyph: glyphs/arrow-circle-left.svg
+      name: arrow_circle_left
+      code: 0xF0A8
+    - glyph: glyphs/arrow-circle-o-down.svg
+      name: arrow_circle_o_down
+      code: 0xF01A
+    - glyph: glyphs/arrow-circle-o-left.svg
+      name: arrow_circle_o_left
+      code: 0xF190
+    - glyph: glyphs/arrow-circle-o-right.svg
+      name: arrow_circle_o_right
+      code: 0xF18E
+    - glyph: glyphs/arrow-circle-o-up.svg
+      name: arrow_circle_o_up
+      code: 0xF01B
+    - glyph: glyphs/arrow-circle-right.svg
+      name: arrow_circle_right
+      code: 0xF0A9
+    - glyph: glyphs/arrow-circle-up.svg
+      name: arrow_circle_up
+      code: 0xF0AA
+    - glyph: glyphs/arrow-down.svg
+      name: arrow_down
+      code: 0xF063
+    - glyph: glyphs/arrow-left.svg
+      name: arrow_left
+      code: 0xF060
+    - glyph: glyphs/arrow-right.svg
+      name: arrow_right
+      code: 0xF061
+    - glyph: glyphs/arrow-up.svg
+      name: arrow_up
+      code: 0xF062
+    - glyph: glyphs/arrows.svg
+      name: arrows
+      code: 0xF047
+    - glyph: glyphs/arrows-alt.svg
+      name: arrows_alt
+      code: 0xF0B2
+    - glyph: glyphs/arrows-h.svg
+      name: arrows_h
+      code: 0xF07E
+    - glyph: glyphs/arrows-v.svg
+      name: arrows_v
+      code: 0xF07D
+    - glyph: glyphs/asl-interpreting.svg
+      name: asl_interpreting
+      code: 0xF2A3
+    - glyph: glyphs/assistive-listening-systems.svg
+      name: assistive_listening_systems
+      code: 0xF2A2
+    - glyph: glyphs/asterisk.svg
+      name: asterisk
+      code: 0xF069
+    - glyph: glyphs/at.svg
+      name: at
+      code: 0xF1FA
+    - glyph: glyphs/audio-description.svg
+      name: audio_description
+      code: 0xF29E
+    - glyph: glyphs/automobile.svg
+      name: automobile
+      code: 0xF1B9
+    - glyph: glyphs/backward.svg
+      name: backward
+      code: 0xF04A
+    - glyph: glyphs/balance-scale.svg
+      name: balance_scale
+      code: 0xF24E
+    - glyph: glyphs/ban.svg
+      name: ban
+      code: 0xF05E
+    - glyph: glyphs/bandcamp.svg
+      name: bandcamp
+      code: 0xF2D5
+    - glyph: glyphs/bank.svg
+      name: bank
+      code: 0xF19C
+    - glyph: glyphs/bar-chart.svg
+      name: bar_chart
+      code: 0xF080
+    - glyph: glyphs/bar-chart-o.svg
+      name: bar_chart_o
+      code: 0xF080
+    - glyph: glyphs/barcode.svg
+      name: barcode
+      code: 0xF02A
+    - glyph: glyphs/bars.svg
+      name: bars
+      code: 0xF0C9
+    - glyph: glyphs/bath.svg
+      name: bath
+      code: 0xF2CD
+    - glyph: glyphs/bathtub.svg
+      name: bathtub
+      code: 0xF2CD
+    - glyph: glyphs/battery.svg
+      name: battery
+      code: 0xF240
+    - glyph: glyphs/battery-0.svg
+      name: battery_0
+      code: 0xF244
+    - glyph: glyphs/battery-1.svg
+      name: battery_1
+      code: 0xF243
+    - glyph: glyphs/battery-2.svg
+      name: battery_2
+      code: 0xF242
+    - glyph: glyphs/battery-3.svg
+      name: battery_3
+      code: 0xF241
+    - glyph: glyphs/battery-4.svg
+      name: battery_4
+      code: 0xF240
+    - glyph: glyphs/battery-empty.svg
+      name: battery_empty
+      code: 0xF244
+    - glyph: glyphs/battery-full.svg
+      name: battery_full
+      code: 0xF240
+    - glyph: glyphs/battery-half.svg
+      name: battery_half
+      code: 0xF242
+    - glyph: glyphs/battery-quarter.svg
+      name: battery_quarter
+      code: 0xF243
+    - glyph: glyphs/battery-three-quarters.svg
+      name: battery_three_quarters
+      code: 0xF241
+    - glyph: glyphs/bed.svg
+      name: bed
+      code: 0xF236
+    - glyph: glyphs/beer.svg
+      name: beer
+      code: 0xF0FC
+    - glyph: glyphs/behance.svg
+      name: behance
+      code: 0xF1B4
+    - glyph: glyphs/behance-square.svg
+      name: behance_square
+      code: 0xF1B5
+    - glyph: glyphs/bell.svg
+      name: bell
+      code: 0xF0F3
+    - glyph: glyphs/bell-o.svg
+      name: bell_o
+      code: 0xF0A2
+    - glyph: glyphs/bell-slash.svg
+      name: bell_slash
+      code: 0xF1F6
+    - glyph: glyphs/bell-slash-o.svg
+      name: bell_slash_o
+      code: 0xF1F7
+    - glyph: glyphs/bicycle.svg
+      name: bicycle
+      code: 0xF206
+    - glyph: glyphs/binoculars.svg
+      name: binoculars
+      code: 0xF1E5
+    - glyph: glyphs/birthday-cake.svg
+      name: birthday_cake
+      code: 0xF1FD
+    - glyph: glyphs/bitbucket.svg
+      name: bitbucket
+      code: 0xF171
+    - glyph: glyphs/bitbucket-square.svg
+      name: bitbucket_square
+      code: 0xF172
+    - glyph: glyphs/bitcoin.svg
+      name: bitcoin
+      code: 0xF15A
+    - glyph: glyphs/black-tie.svg
+      name: black_tie
+      code: 0xF27E
+    - glyph: glyphs/blind.svg
+      name: blind
+      code: 0xF29D
+    - glyph: glyphs/bluetooth.svg
+      name: bluetooth
+      code: 0xF293
+    - glyph: glyphs/bluetooth-b.svg
+      name: bluetooth_b
+      code: 0xF294
+    - glyph: glyphs/bold.svg
+      name: bold
+      code: 0xF032
+    - glyph: glyphs/bolt.svg
+      name: bolt
+      code: 0xF0E7
+    - glyph: glyphs/bomb.svg
+      name: bomb
+      code: 0xF1E2
+    - glyph: glyphs/book.svg
+      name: book
+      code: 0xF02D
+    - glyph: glyphs/bookmark.svg
+      name: bookmark
+      code: 0xF02E
+    - glyph: glyphs/bookmark-o.svg
+      name: bookmark_o
+      code: 0xF097
+    - glyph: glyphs/braille.svg
+      name: braille
+      code: 0xF2A1
+    - glyph: glyphs/briefcase.svg
+      name: briefcase
+      code: 0xF0B1
+    - glyph: glyphs/btc.svg
+      name: btc
+      code: 0xF15A
+    - glyph: glyphs/bug.svg
+      name: bug
+      code: 0xF188
+    - glyph: glyphs/building.svg
+      name: building
+      code: 0xF1AD
+    - glyph: glyphs/building-o.svg
+      name: building_o
+      code: 0xF0F7
+    - glyph: glyphs/bullhorn.svg
+      name: bullhorn
+      code: 0xF0A1
+    - glyph: glyphs/bullseye.svg
+      name: bullseye
+      code: 0xF140
+    - glyph: glyphs/bus.svg
+      name: bus
+      code: 0xF207
+    - glyph: glyphs/buysellads.svg
+      name: buysellads
+      code: 0xF20D
+    - glyph: glyphs/cab.svg
+      name: cab
+      code: 0xF1BA
+    - glyph: glyphs/calculator.svg
+      name: calculator
+      code: 0xF1EC
+    - glyph: glyphs/calendar.svg
+      name: calendar
+      code: 0xF073
+    - glyph: glyphs/calendar-check-o.svg
+      name: calendar_check_o
+      code: 0xF274
+    - glyph: glyphs/calendar-minus-o.svg
+      name: calendar_minus_o
+      code: 0xF272
+    - glyph: glyphs/calendar-o.svg
+      name: calendar_o
+      code: 0xF133
+    - glyph: glyphs/calendar-plus-o.svg
+      name: calendar_plus_o
+      code: 0xF271
+    - glyph: glyphs/calendar-times-o.svg
+      name: calendar_times_o
+      code: 0xF273
+    - glyph: glyphs/camera.svg
+      name: camera
+      code: 0xF030
+    - glyph: glyphs/camera-retro.svg
+      name: camera_retro
+      code: 0xF083
+    - glyph: glyphs/car.svg
+      name: car
+      code: 0xF1B9
+    - glyph: glyphs/caret-down.svg
+      name: caret_down
+      code: 0xF0D7
+    - glyph: glyphs/caret-left.svg
+      name: caret_left
+      code: 0xF0D9
+    - glyph: glyphs/caret-right.svg
+      name: caret_right
+      code: 0xF0DA
+    - glyph: glyphs/caret-square-o-down.svg
+      name: caret_square_o_down
+      code: 0xF150
+    - glyph: glyphs/caret-square-o-left.svg
+      name: caret_square_o_left
+      code: 0xF191
+    - glyph: glyphs/caret-square-o-right.svg
+      name: caret_square_o_right
+      code: 0xF152
+    - glyph: glyphs/caret-square-o-up.svg
+      name: caret_square_o_up
+      code: 0xF151
+    - glyph: glyphs/caret-up.svg
+      name: caret_up
+      code: 0xF0D8
+    - glyph: glyphs/cart-arrow-down.svg
+      name: cart_arrow_down
+      code: 0xF218
+    - glyph: glyphs/cart-plus.svg
+      name: cart_plus
+      code: 0xF217
+    - glyph: glyphs/cc.svg
+      name: cc
+      code: 0xF20A
+    - glyph: glyphs/cc-amex.svg
+      name: cc_amex
+      code: 0xF1F3
+    - glyph: glyphs/cc-diners-club.svg
+      name: cc_diners_club
+      code: 0xF24C
+    - glyph: glyphs/cc-discover.svg
+      name: cc_discover
+      code: 0xF1F2
+    - glyph: glyphs/cc-jcb.svg
+      name: cc_jcb
+      code: 0xF24B
+    - glyph: glyphs/cc-mastercard.svg
+      name: cc_mastercard
+      code: 0xF1F1
+    - glyph: glyphs/cc-paypal.svg
+      name: cc_paypal
+      code: 0xF1F4
+    - glyph: glyphs/cc-stripe.svg
+      name: cc_stripe
+      code: 0xF1F5
+    - glyph: glyphs/cc-visa.svg
+      name: cc_visa
+      code: 0xF1F0
+    - glyph: glyphs/certificate.svg
+      name: certificate
+      code: 0xF0A3
+    - glyph: glyphs/chain.svg
+      name: chain
+      code: 0xF0C1
+    - glyph: glyphs/chain-broken.svg
+      name: chain_broken
+      code: 0xF127
+    - glyph: glyphs/check.svg
+      name: check
+      code: 0xF00C
+    - glyph: glyphs/check-circle.svg
+      name: check_circle
+      code: 0xF058
+    - glyph: glyphs/check-circle-o.svg
+      name: check_circle_o
+      code: 0xF05D
+    - glyph: glyphs/check-square.svg
+      name: check_square
+      code: 0xF14A
+    - glyph: glyphs/check-square-o.svg
+      name: check_square_o
+      code: 0xF046
+    - glyph: glyphs/chevron-circle-down.svg
+      name: chevron_circle_down
+      code: 0xF13A
+    - glyph: glyphs/chevron-circle-left.svg
+      name: chevron_circle_left
+      code: 0xF137
+    - glyph: glyphs/chevron-circle-right.svg
+      name: chevron_circle_right
+      code: 0xF138
+    - glyph: glyphs/chevron-circle-up.svg
+      name: chevron_circle_up
+      code: 0xF139
+    - glyph: glyphs/chevron-down.svg
+      name: chevron_down
+      code: 0xF078
+    - glyph: glyphs/chevron-left.svg
+      name: chevron_left
+      code: 0xF053
+    - glyph: glyphs/chevron-right.svg
+      name: chevron_right
+      code: 0xF054
+    - glyph: glyphs/chevron-up.svg
+      name: chevron_up
+      code: 0xF077
+    - glyph: glyphs/child.svg
+      name: child
+      code: 0xF1AE
+    - glyph: glyphs/chrome.svg
+      name: chrome
+      code: 0xF268
+    - glyph: glyphs/circle.svg
+      name: circle
+      code: 0xF111
+    - glyph: glyphs/circle-o.svg
+      name: circle_o
+      code: 0xF10C
+    - glyph: glyphs/circle-o-notch.svg
+      name: circle_o_notch
+      code: 0xF1CE
+    - glyph: glyphs/circle-thin.svg
+      name: circle_thin
+      code: 0xF1DB
+    - glyph: glyphs/clipboard.svg
+      name: clipboard
+      code: 0xF0EA
+    - glyph: glyphs/clock-o.svg
+      name: clock_o
+      code: 0xF017
+    - glyph: glyphs/clone.svg
+      name: clone
+      code: 0xF24D
+    - glyph: glyphs/close.svg
+      name: close
+      code: 0xF00D
+    - glyph: glyphs/cloud.svg
+      name: cloud
+      code: 0xF0C2
+    - glyph: glyphs/cloud-download.svg
+      name: cloud_download
+      code: 0xF0ED
+    - glyph: glyphs/cloud-upload.svg
+      name: cloud_upload
+      code: 0xF0EE
+    - glyph: glyphs/cny.svg
+      name: cny
+      code: 0xF157
+    - glyph: glyphs/code.svg
+      name: code
+      code: 0xF121
+    - glyph: glyphs/code-fork.svg
+      name: code_fork
+      code: 0xF126
+    - glyph: glyphs/codepen.svg
+      name: codepen
+      code: 0xF1CB
+    - glyph: glyphs/codiepie.svg
+      name: codiepie
+      code: 0xF284
+    - glyph: glyphs/coffee.svg
+      name: coffee
+      code: 0xF0F4
+    - glyph: glyphs/cog.svg
+      name: cog
+      code: 0xF013
+    - glyph: glyphs/cogs.svg
+      name: cogs
+      code: 0xF085
+    - glyph: glyphs/columns.svg
+      name: columns
+      code: 0xF0DB
+    - glyph: glyphs/comment.svg
+      name: comment
+      code: 0xF075
+    - glyph: glyphs/comment-o.svg
+      name: comment_o
+      code: 0xF0E5
+    - glyph: glyphs/commenting.svg
+      name: commenting
+      code: 0xF27A
+    - glyph: glyphs/commenting-o.svg
+      name: commenting_o
+      code: 0xF27B
+    - glyph: glyphs/comments.svg
+      name: comments
+      code: 0xF086
+    - glyph: glyphs/comments-o.svg
+      name: comments_o
+      code: 0xF0E6
+    - glyph: glyphs/compass.svg
+      name: compass
+      code: 0xF14E
+    - glyph: glyphs/compress.svg
+      name: compress
+      code: 0xF066
+    - glyph: glyphs/connectdevelop.svg
+      name: connectdevelop
+      code: 0xF20E
+    - glyph: glyphs/contao.svg
+      name: contao
+      code: 0xF26D
+    - glyph: glyphs/copy.svg
+      name: copy
+      code: 0xF0C5
+    - glyph: glyphs/copyright.svg
+      name: copyright
+      code: 0xF1F9
+    - glyph: glyphs/creative-commons.svg
+      name: creative_commons
+      code: 0xF25E
+    - glyph: glyphs/credit-card.svg
+      name: credit_card
+      code: 0xF09D
+    - glyph: glyphs/credit-card-alt.svg
+      name: credit_card_alt
+      code: 0xF283
+    - glyph: glyphs/crop.svg
+      name: crop
+      code: 0xF125
+    - glyph: glyphs/crosshairs.svg
+      name: crosshairs
+      code: 0xF05B
+    - glyph: glyphs/css3.svg
+      name: css3
+      code: 0xF13C
+    - glyph: glyphs/cube.svg
+      name: cube
+      code: 0xF1B2
+    - glyph: glyphs/cubes.svg
+      name: cubes
+      code: 0xF1B3
+    - glyph: glyphs/cut.svg
+      name: cut
+      code: 0xF0C4
+    - glyph: glyphs/cutlery.svg
+      name: cutlery
+      code: 0xF0F5
+    - glyph: glyphs/dashboard.svg
+      name: dashboard
+      code: 0xF0E4
+    - glyph: glyphs/dashcube.svg
+      name: dashcube
+      code: 0xF210
+    - glyph: glyphs/database.svg
+      name: database
+      code: 0xF1C0
+    - glyph: glyphs/deaf.svg
+      name: deaf
+      code: 0xF2A4
+    - glyph: glyphs/deafness.svg
+      name: deafness
+      code: 0xF2A4
+    - glyph: glyphs/dedent.svg
+      name: dedent
+      code: 0xF03B
+    - glyph: glyphs/delicious.svg
+      name: delicious
+      code: 0xF1A5
+    - glyph: glyphs/desktop.svg
+      name: desktop
+      code: 0xF108
+    - glyph: glyphs/deviantart.svg
+      name: deviantart
+      code: 0xF1BD
+    - glyph: glyphs/diamond.svg
+      name: diamond
+      code: 0xF219
+    - glyph: glyphs/digg.svg
+      name: digg
+      code: 0xF1A6
+    - glyph: glyphs/dollar.svg
+      name: dollar
+      code: 0xF155
+    - glyph: glyphs/dot-circle-o.svg
+      name: dot_circle_o
+      code: 0xF192
+    - glyph: glyphs/download.svg
+      name: download
+      code: 0xF019
+    - glyph: glyphs/dribbble.svg
+      name: dribbble
+      code: 0xF17D
+    - glyph: glyphs/drivers-license.svg
+      name: drivers_license
+      code: 0xF2C2
+    - glyph: glyphs/drivers-license-o.svg
+      name: drivers_license_o
+      code: 0xF2C3
+    - glyph: glyphs/dropbox.svg
+      name: dropbox
+      code: 0xF16B
+    - glyph: glyphs/drupal.svg
+      name: drupal
+      code: 0xF1A9
+    - glyph: glyphs/edge.svg
+      name: edge
+      code: 0xF282
+    - glyph: glyphs/edit.svg
+      name: edit
+      code: 0xF044
+    - glyph: glyphs/eercast.svg
+      name: eercast
+      code: 0xF2DA
+    - glyph: glyphs/eject.svg
+      name: eject
+      code: 0xF052
+    - glyph: glyphs/ellipsis-h.svg
+      name: ellipsis_h
+      code: 0xF141
+    - glyph: glyphs/ellipsis-v.svg
+      name: ellipsis_v
+      code: 0xF142
+    - glyph: glyphs/empire.svg
+      name: empire
+      code: 0xF1D1
+    - glyph: glyphs/envelope.svg
+      name: envelope
+      code: 0xF0E0
+    - glyph: glyphs/envelope-o.svg
+      name: envelope_o
+      code: 0xF003
+    - glyph: glyphs/envelope-open.svg
+      name: envelope_open
+      code: 0xF2B6
+    - glyph: glyphs/envelope-open-o.svg
+      name: envelope_open_o
+      code: 0xF2B7
+    - glyph: glyphs/envelope-square.svg
+      name: envelope_square
+      code: 0xF199
+    - glyph: glyphs/envira.svg
+      name: envira
+      code: 0xF299
+    - glyph: glyphs/eraser.svg
+      name: eraser
+      code: 0xF12D
+    - glyph: glyphs/etsy.svg
+      name: etsy
+      code: 0xF2D7
+    - glyph: glyphs/eur.svg
+      name: eur
+      code: 0xF153
+    - glyph: glyphs/euro.svg
+      name: euro
+      code: 0xF153
+    - glyph: glyphs/exchange.svg
+      name: exchange
+      code: 0xF0EC
+    - glyph: glyphs/exclamation.svg
+      name: exclamation
+      code: 0xF12A
+    - glyph: glyphs/exclamation-circle.svg
+      name: exclamation_circle
+      code: 0xF06A
+    - glyph: glyphs/exclamation-triangle.svg
+      name: exclamation_triangle
+      code: 0xF071
+    - glyph: glyphs/expand.svg
+      name: expand
+      code: 0xF065
+    - glyph: glyphs/expeditedssl.svg
+      name: expeditedssl
+      code: 0xF23E
+    - glyph: glyphs/external-link.svg
+      name: external_link
+      code: 0xF08E
+    - glyph: glyphs/external-link-square.svg
+      name: external_link_square
+      code: 0xF14C
+    - glyph: glyphs/eye.svg
+      name: eye
+      code: 0xF06E
+    - glyph: glyphs/eye-slash.svg
+      name: eye_slash
+      code: 0xF070
+    - glyph: glyphs/eyedropper.svg
+      name: eyedropper
+      code: 0xF1FB
+    - glyph: glyphs/fa.svg
+      name: fa
+      code: 0xF2B4
+    - glyph: glyphs/facebook.svg
+      name: facebook
+      code: 0xF09A
+    - glyph: glyphs/facebook-f.svg
+      name: facebook_f
+      code: 0xF09A
+    - glyph: glyphs/facebook-official.svg
+      name: facebook_official
+      code: 0xF230
+    - glyph: glyphs/facebook-square.svg
+      name: facebook_square
+      code: 0xF082
+    - glyph: glyphs/fast-backward.svg
+      name: fast_backward
+      code: 0xF049
+    - glyph: glyphs/fast-forward.svg
+      name: fast_forward
+      code: 0xF050
+    - glyph: glyphs/fax.svg
+      name: fax
+      code: 0xF1AC
+    - glyph: glyphs/feed.svg
+      name: feed
+      code: 0xF09E
+    - glyph: glyphs/female.svg
+      name: female
+      code: 0xF182
+    - glyph: glyphs/fighter-jet.svg
+      name: fighter_jet
+      code: 0xF0FB
+    - glyph: glyphs/file.svg
+      name: file
+      code: 0xF15B
+    - glyph: glyphs/file-archive-o.svg
+      name: file_archive_o
+      code: 0xF1C6
+    - glyph: glyphs/file-audio-o.svg
+      name: file_audio_o
+      code: 0xF1C7
+    - glyph: glyphs/file-code-o.svg
+      name: file_code_o
+      code: 0xF1C9
+    - glyph: glyphs/file-excel-o.svg
+      name: file_excel_o
+      code: 0xF1C3
+    - glyph: glyphs/file-image-o.svg
+      name: file_image_o
+      code: 0xF1C5
+    - glyph: glyphs/file-movie-o.svg
+      name: file_movie_o
+      code: 0xF1C8
+    - glyph: glyphs/file-o.svg
+      name: file_o
+      code: 0xF016
+    - glyph: glyphs/file-pdf-o.svg
+      name: file_pdf_o
+      code: 0xF1C1
+    - glyph: glyphs/file-photo-o.svg
+      name: file_photo_o
+      code: 0xF1C5
+    - glyph: glyphs/file-picture-o.svg
+      name: file_picture_o
+      code: 0xF1C5
+    - glyph: glyphs/file-powerpoint-o.svg
+      name: file_powerpoint_o
+      code: 0xF1C4
+    - glyph: glyphs/file-sound-o.svg
+      name: file_sound_o
+      code: 0xF1C7
+    - glyph: glyphs/file-text.svg
+      name: file_text
+      code: 0xF15C
+    - glyph: glyphs/file-text-o.svg
+      name: file_text_o
+      code: 0xF0F6
+    - glyph: glyphs/file-video-o.svg
+      name: file_video_o
+      code: 0xF1C8
+    - glyph: glyphs/file-word-o.svg
+      name: file_word_o
+      code: 0xF1C2
+    - glyph: glyphs/file-zip-o.svg
+      name: file_zip_o
+      code: 0xF1C6
+    - glyph: glyphs/files-o.svg
+      name: files_o
+      code: 0xF0C5
+    - glyph: glyphs/film.svg
+      name: film
+      code: 0xF008
+    - glyph: glyphs/filter.svg
+      name: filter
+      code: 0xF0B0
+    - glyph: glyphs/fire.svg
+      name: fire
+      code: 0xF06D
+    - glyph: glyphs/fire-extinguisher.svg
+      name: fire_extinguisher
+      code: 0xF134
+    - glyph: glyphs/firefox.svg
+      name: firefox
+      code: 0xF269
+    - glyph: glyphs/first-order.svg
+      name: first_order
+      code: 0xF2B0
+    - glyph: glyphs/flag.svg
+      name: flag
+      code: 0xF024
+    - glyph: glyphs/flag-checkered.svg
+      name: flag_checkered
+      code: 0xF11E
+    - glyph: glyphs/flag-o.svg
+      name: flag_o
+      code: 0xF11D
+    - glyph: glyphs/flash.svg
+      name: flash
+      code: 0xF0E7
+    - glyph: glyphs/flask.svg
+      name: flask
+      code: 0xF0C3
+    - glyph: glyphs/flickr.svg
+      name: flickr
+      code: 0xF16E
+    - glyph: glyphs/floppy-o.svg
+      name: floppy_o
+      code: 0xF0C7
+    - glyph: glyphs/folder.svg
+      name: folder
+      code: 0xF07B
+    - glyph: glyphs/folder-o.svg
+      name: folder_o
+      code: 0xF114
+    - glyph: glyphs/folder-open.svg
+      name: folder_open
+      code: 0xF07C
+    - glyph: glyphs/folder-open-o.svg
+      name: folder_open_o
+      code: 0xF115
+    - glyph: glyphs/font.svg
+      name: font
+      code: 0xF031
+    - glyph: glyphs/font-awesome.svg
+      name: font_awesome
+      code: 0xF2B4
+    - glyph: glyphs/fonticons.svg
+      name: fonticons
+      code: 0xF280
+    - glyph: glyphs/fort-awesome.svg
+      name: fort_awesome
+      code: 0xF286
+    - glyph: glyphs/forumbee.svg
+      name: forumbee
+      code: 0xF211
+    - glyph: glyphs/forward.svg
+      name: forward
+      code: 0xF04E
+    - glyph: glyphs/foursquare.svg
+      name: foursquare
+      code: 0xF180
+    - glyph: glyphs/free-code-camp.svg
+      name: free_code_camp
+      code: 0xF2C5
+    - glyph: glyphs/frown-o.svg
+      name: frown_o
+      code: 0xF119
+    - glyph: glyphs/futbol-o.svg
+      name: futbol_o
+      code: 0xF1E3
+    - glyph: glyphs/gamepad.svg
+      name: gamepad
+      code: 0xF11B
+    - glyph: glyphs/gavel.svg
+      name: gavel
+      code: 0xF0E3
+    - glyph: glyphs/gbp.svg
+      name: gbp
+      code: 0xF154
+    - glyph: glyphs/ge.svg
+      name: ge
+      code: 0xF1D1
+    - glyph: glyphs/gear.svg
+      name: gear
+      code: 0xF013
+    - glyph: glyphs/gears.svg
+      name: gears
+      code: 0xF085
+    - glyph: glyphs/genderless.svg
+      name: genderless
+      code: 0xF22D
+    - glyph: glyphs/get-pocket.svg
+      name: get_pocket
+      code: 0xF265
+    - glyph: glyphs/gg.svg
+      name: gg
+      code: 0xF260
+    - glyph: glyphs/gg-circle.svg
+      name: gg_circle
+      code: 0xF261
+    - glyph: glyphs/gift.svg
+      name: gift
+      code: 0xF06B
+    - glyph: glyphs/git.svg
+      name: git
+      code: 0xF1D3
+    - glyph: glyphs/git-square.svg
+      name: git_square
+      code: 0xF1D2
+    - glyph: glyphs/github.svg
+      name: github
+      code: 0xF09B
+    - glyph: glyphs/github-alt.svg
+      name: github_alt
+      code: 0xF113
+    - glyph: glyphs/github-square.svg
+      name: github_square
+      code: 0xF092
+    - glyph: glyphs/gitlab.svg
+      name: gitlab
+      code: 0xF296
+    - glyph: glyphs/gittip.svg
+      name: gittip
+      code: 0xF184
+    - glyph: glyphs/glass.svg
+      name: glass
+      code: 0xF000
+    - glyph: glyphs/glide.svg
+      name: glide
+      code: 0xF2A5
+    - glyph: glyphs/glide-g.svg
+      name: glide_g
+      code: 0xF2A6
+    - glyph: glyphs/globe.svg
+      name: globe
+      code: 0xF0AC
+    - glyph: glyphs/google.svg
+      name: google
+      code: 0xF1A0
+    - glyph: glyphs/google-plus.svg
+      name: google_plus
+      code: 0xF0D5
+    - glyph: glyphs/google-plus-circle.svg
+      name: google_plus_circle
+      code: 0xF2B3
+    - glyph: glyphs/google-plus-official.svg
+      name: google_plus_official
+      code: 0xF2B3
+    - glyph: glyphs/google-plus-square.svg
+      name: google_plus_square
+      code: 0xF0D4
+    - glyph: glyphs/google-wallet.svg
+      name: google_wallet
+      code: 0xF1EE
+    - glyph: glyphs/graduation-cap.svg
+      name: graduation_cap
+      code: 0xF19D
+    - glyph: glyphs/gratipay.svg
+      name: gratipay
+      code: 0xF184
+    - glyph: glyphs/grav.svg
+      name: grav
+      code: 0xF2D6
+    - glyph: glyphs/group.svg
+      name: group
+      code: 0xF0C0
+    - glyph: glyphs/h-square.svg
+      name: h_square
+      code: 0xF0FD
+    - glyph: glyphs/hacker-news.svg
+      name: hacker_news
+      code: 0xF1D4
+    - glyph: glyphs/hand-grab-o.svg
+      name: hand_grab_o
+      code: 0xF255
+    - glyph: glyphs/hand-lizard-o.svg
+      name: hand_lizard_o
+      code: 0xF258
+    - glyph: glyphs/hand-o-down.svg
+      name: hand_o_down
+      code: 0xF0A7
+    - glyph: glyphs/hand-o-left.svg
+      name: hand_o_left
+      code: 0xF0A5
+    - glyph: glyphs/hand-o-right.svg
+      name: hand_o_right
+      code: 0xF0A4
+    - glyph: glyphs/hand-o-up.svg
+      name: hand_o_up
+      code: 0xF0A6
+    - glyph: glyphs/hand-paper-o.svg
+      name: hand_paper_o
+      code: 0xF256
+    - glyph: glyphs/hand-peace-o.svg
+      name: hand_peace_o
+      code: 0xF25B
+    - glyph: glyphs/hand-pointer-o.svg
+      name: hand_pointer_o
+      code: 0xF25A
+    - glyph: glyphs/hand-rock-o.svg
+      name: hand_rock_o
+      code: 0xF255
+    - glyph: glyphs/hand-scissors-o.svg
+      name: hand_scissors_o
+      code: 0xF257
+    - glyph: glyphs/hand-spock-o.svg
+      name: hand_spock_o
+      code: 0xF259
+    - glyph: glyphs/hand-stop-o.svg
+      name: hand_stop_o
+      code: 0xF256
+    - glyph: glyphs/handshake-o.svg
+      name: handshake_o
+      code: 0xF2B5
+    - glyph: glyphs/hard-of-hearing.svg
+      name: hard_of_hearing
+      code: 0xF2A4
+    - glyph: glyphs/hashtag.svg
+      name: hashtag
+      code: 0xF292
+    - glyph: glyphs/hdd-o.svg
+      name: hdd_o
+      code: 0xF0A0
+    - glyph: glyphs/header.svg
+      name: header
+      code: 0xF1DC
+    - glyph: glyphs/headphones.svg
+      name: headphones
+      code: 0xF025
+    - glyph: glyphs/heart.svg
+      name: heart
+      code: 0xF004
+    - glyph: glyphs/heart-o.svg
+      name: heart_o
+      code: 0xF08A
+    - glyph: glyphs/heartbeat.svg
+      name: heartbeat
+      code: 0xF21E
+    - glyph: glyphs/history.svg
+      name: history
+      code: 0xF1DA
+    - glyph: glyphs/home.svg
+      name: home
+      code: 0xF015
+    - glyph: glyphs/hospital-o.svg
+      name: hospital_o
+      code: 0xF0F8
+    - glyph: glyphs/hotel.svg
+      name: hotel
+      code: 0xF236
+    - glyph: glyphs/hourglass.svg
+      name: hourglass
+      code: 0xF254
+    - glyph: glyphs/hourglass-1.svg
+      name: hourglass_1
+      code: 0xF251
+    - glyph: glyphs/hourglass-2.svg
+      name: hourglass_2
+      code: 0xF252
+    - glyph: glyphs/hourglass-3.svg
+      name: hourglass_3
+      code: 0xF253
+    - glyph: glyphs/hourglass-end.svg
+      name: hourglass_end
+      code: 0xF253
+    - glyph: glyphs/hourglass-half.svg
+      name: hourglass_half
+      code: 0xF252
+    - glyph: glyphs/hourglass-o.svg
+      name: hourglass_o
+      code: 0xF250
+    - glyph: glyphs/hourglass-start.svg
+      name: hourglass_start
+      code: 0xF251
+    - glyph: glyphs/houzz.svg
+      name: houzz
+      code: 0xF27C
+    - glyph: glyphs/html5.svg
+      name: html5
+      code: 0xF13B
+    - glyph: glyphs/i-cursor.svg
+      name: i_cursor
+      code: 0xF246
+    - glyph: glyphs/id-badge.svg
+      name: id_badge
+      code: 0xF2C1
+    - glyph: glyphs/id-card.svg
+      name: id_card
+      code: 0xF2C2
+    - glyph: glyphs/id-card-o.svg
+      name: id_card_o
+      code: 0xF2C3
+    - glyph: glyphs/ils.svg
+      name: ils
+      code: 0xF20B
+    - glyph: glyphs/image.svg
+      name: image
+      code: 0xF03E
+    - glyph: glyphs/imdb.svg
+      name: imdb
+      code: 0xF2D8
+    - glyph: glyphs/inbox.svg
+      name: inbox
+      code: 0xF01C
+    - glyph: glyphs/indent.svg
+      name: indent
+      code: 0xF03C
+    - glyph: glyphs/industry.svg
+      name: industry
+      code: 0xF275
+    - glyph: glyphs/info.svg
+      name: info
+      code: 0xF129
+    - glyph: glyphs/info-circle.svg
+      name: info_circle
+      code: 0xF05A
+    - glyph: glyphs/inr.svg
+      name: inr
+      code: 0xF156
+    - glyph: glyphs/instagram.svg
+      name: instagram
+      code: 0xF16D
+    - glyph: glyphs/institution.svg
+      name: institution
+      code: 0xF19C
+    - glyph: glyphs/internet-explorer.svg
+      name: internet_explorer
+      code: 0xF26B
+    - glyph: glyphs/intersex.svg
+      name: intersex
+      code: 0xF224
+    - glyph: glyphs/ioxhost.svg
+      name: ioxhost
+      code: 0xF208
+    - glyph: glyphs/italic.svg
+      name: italic
+      code: 0xF033
+    - glyph: glyphs/joomla.svg
+      name: joomla
+      code: 0xF1AA
+    - glyph: glyphs/jpy.svg
+      name: jpy
+      code: 0xF157
+    - glyph: glyphs/jsfiddle.svg
+      name: jsfiddle
+      code: 0xF1CC
+    - glyph: glyphs/key.svg
+      name: key
+      code: 0xF084
+    - glyph: glyphs/keyboard-o.svg
+      name: keyboard_o
+      code: 0xF11C
+    - glyph: glyphs/krw.svg
+      name: krw
+      code: 0xF159
+    - glyph: glyphs/language.svg
+      name: language
+      code: 0xF1AB
+    - glyph: glyphs/laptop.svg
+      name: laptop
+      code: 0xF109
+    - glyph: glyphs/lastfm.svg
+      name: lastfm
+      code: 0xF202
+    - glyph: glyphs/lastfm-square.svg
+      name: lastfm_square
+      code: 0xF203
+    - glyph: glyphs/leaf.svg
+      name: leaf
+      code: 0xF06C
+    - glyph: glyphs/leanpub.svg
+      name: leanpub
+      code: 0xF212
+    - glyph: glyphs/legal.svg
+      name: legal
+      code: 0xF0E3
+    - glyph: glyphs/lemon-o.svg
+      name: lemon_o
+      code: 0xF094
+    - glyph: glyphs/level-down.svg
+      name: level_down
+      code: 0xF149
+    - glyph: glyphs/level-up.svg
+      name: level_up
+      code: 0xF148
+    - glyph: glyphs/life-bouy.svg
+      name: life_bouy
+      code: 0xF1CD
+    - glyph: glyphs/life-buoy.svg
+      name: life_buoy
+      code: 0xF1CD
+    - glyph: glyphs/life-ring.svg
+      name: life_ring
+      code: 0xF1CD
+    - glyph: glyphs/life-saver.svg
+      name: life_saver
+      code: 0xF1CD
+    - glyph: glyphs/lightbulb-o.svg
+      name: lightbulb_o
+      code: 0xF0EB
+    - glyph: glyphs/line-chart.svg
+      name: line_chart
+      code: 0xF201
+    - glyph: glyphs/link.svg
+      name: link
+      code: 0xF0C1
+    - glyph: glyphs/linkedin.svg
+      name: linkedin
+      code: 0xF0E1
+    - glyph: glyphs/linkedin-square.svg
+      name: linkedin_square
+      code: 0xF08C
+    - glyph: glyphs/linode.svg
+      name: linode
+      code: 0xF2B8
+    - glyph: glyphs/linux.svg
+      name: linux
+      code: 0xF17C
+    - glyph: glyphs/list.svg
+      name: list
+      code: 0xF03A
+    - glyph: glyphs/list-alt.svg
+      name: list_alt
+      code: 0xF022
+    - glyph: glyphs/list-ol.svg
+      name: list_ol
+      code: 0xF0CB
+    - glyph: glyphs/list-ul.svg
+      name: list_ul
+      code: 0xF0CA
+    - glyph: glyphs/location-arrow.svg
+      name: location_arrow
+      code: 0xF124
+    - glyph: glyphs/lock.svg
+      name: lock
+      code: 0xF023
+    - glyph: glyphs/long-arrow-down.svg
+      name: long_arrow_down
+      code: 0xF175
+    - glyph: glyphs/long-arrow-left.svg
+      name: long_arrow_left
+      code: 0xF177
+    - glyph: glyphs/long-arrow-right.svg
+      name: long_arrow_right
+      code: 0xF178
+    - glyph: glyphs/long-arrow-up.svg
+      name: long_arrow_up
+      code: 0xF176
+    - glyph: glyphs/low-vision.svg
+      name: low_vision
+      code: 0xF2A8
+    - glyph: glyphs/magic.svg
+      name: magic
+      code: 0xF0D0
+    - glyph: glyphs/magnet.svg
+      name: magnet
+      code: 0xF076
+    - glyph: glyphs/mail-forward.svg
+      name: mail_forward
+      code: 0xF064
+    - glyph: glyphs/mail-reply.svg
+      name: mail_reply
+      code: 0xF112
+    - glyph: glyphs/mail-reply-all.svg
+      name: mail_reply_all
+      code: 0xF122
+    - glyph: glyphs/male.svg
+      name: male
+      code: 0xF183
+    - glyph: glyphs/map.svg
+      name: map
+      code: 0xF279
+    - glyph: glyphs/map-marker.svg
+      name: map_marker
+      code: 0xF041
+    - glyph: glyphs/map-o.svg
+      name: map_o
+      code: 0xF278
+    - glyph: glyphs/map-pin.svg
+      name: map_pin
+      code: 0xF276
+    - glyph: glyphs/map-signs.svg
+      name: map_signs
+      code: 0xF277
+    - glyph: glyphs/mars.svg
+      name: mars
+      code: 0xF222
+    - glyph: glyphs/mars-double.svg
+      name: mars_double
+      code: 0xF227
+    - glyph: glyphs/mars-stroke.svg
+      name: mars_stroke
+      code: 0xF229
+    - glyph: glyphs/mars-stroke-h.svg
+      name: mars_stroke_h
+      code: 0xF22B
+    - glyph: glyphs/mars-stroke-v.svg
+      name: mars_stroke_v
+      code: 0xF22A
+    - glyph: glyphs/maxcdn.svg
+      name: maxcdn
+      code: 0xF136
+    - glyph: glyphs/meanpath.svg
+      name: meanpath
+      code: 0xF20C
+    - glyph: glyphs/medium.svg
+      name: medium
+      code: 0xF23A
+    - glyph: glyphs/medkit.svg
+      name: medkit
+      code: 0xF0FA
+    - glyph: glyphs/meetup.svg
+      name: meetup
+      code: 0xF2E0
+    - glyph: glyphs/meh-o.svg
+      name: meh_o
+      code: 0xF11A
+    - glyph: glyphs/mercury.svg
+      name: mercury
+      code: 0xF223
+    - glyph: glyphs/microchip.svg
+      name: microchip
+      code: 0xF2DB
+    - glyph: glyphs/microphone.svg
+      name: microphone
+      code: 0xF130
+    - glyph: glyphs/microphone-slash.svg
+      name: microphone_slash
+      code: 0xF131
+    - glyph: glyphs/minus.svg
+      name: minus
+      code: 0xF068
+    - glyph: glyphs/minus-circle.svg
+      name: minus_circle
+      code: 0xF056
+    - glyph: glyphs/minus-square.svg
+      name: minus_square
+      code: 0xF146
+    - glyph: glyphs/minus-square-o.svg
+      name: minus_square_o
+      code: 0xF147
+    - glyph: glyphs/mixcloud.svg
+      name: mixcloud
+      code: 0xF289
+    - glyph: glyphs/mobile.svg
+      name: mobile
+      code: 0xF10B
+    - glyph: glyphs/mobile-phone.svg
+      name: mobile_phone
+      code: 0xF10B
+    - glyph: glyphs/modx.svg
+      name: modx
+      code: 0xF285
+    - glyph: glyphs/money.svg
+      name: money
+      code: 0xF0D6
+    - glyph: glyphs/moon-o.svg
+      name: moon_o
+      code: 0xF186
+    - glyph: glyphs/mortar-board.svg
+      name: mortar_board
+      code: 0xF19D
+    - glyph: glyphs/motorcycle.svg
+      name: motorcycle
+      code: 0xF21C
+    - glyph: glyphs/mouse-pointer.svg
+      name: mouse_pointer
+      code: 0xF245
+    - glyph: glyphs/music.svg
+      name: music
+      code: 0xF001
+    - glyph: glyphs/navicon.svg
+      name: navicon
+      code: 0xF0C9
+    - glyph: glyphs/neuter.svg
+      name: neuter
+      code: 0xF22C
+    - glyph: glyphs/newspaper-o.svg
+      name: newspaper_o
+      code: 0xF1EA
+    - glyph: glyphs/object-group.svg
+      name: object_group
+      code: 0xF247
+    - glyph: glyphs/object-ungroup.svg
+      name: object_ungroup
+      code: 0xF248
+    - glyph: glyphs/odnoklassniki.svg
+      name: odnoklassniki
+      code: 0xF263
+    - glyph: glyphs/odnoklassniki-square.svg
+      name: odnoklassniki_square
+      code: 0xF264
+    - glyph: glyphs/opencart.svg
+      name: opencart
+      code: 0xF23D
+    - glyph: glyphs/openid.svg
+      name: openid
+      code: 0xF19B
+    - glyph: glyphs/opera.svg
+      name: opera
+      code: 0xF26A
+    - glyph: glyphs/optin-monster.svg
+      name: optin_monster
+      code: 0xF23C
+    - glyph: glyphs/outdent.svg
+      name: outdent
+      code: 0xF03B
+    - glyph: glyphs/pagelines.svg
+      name: pagelines
+      code: 0xF18C
+    - glyph: glyphs/paint-brush.svg
+      name: paint_brush
+      code: 0xF1FC
+    - glyph: glyphs/paper-plane.svg
+      name: paper_plane
+      code: 0xF1D8
+    - glyph: glyphs/paper-plane-o.svg
+      name: paper_plane_o
+      code: 0xF1D9
+    - glyph: glyphs/paperclip.svg
+      name: paperclip
+      code: 0xF0C6
+    - glyph: glyphs/paragraph.svg
+      name: paragraph
+      code: 0xF1DD
+    - glyph: glyphs/paste.svg
+      name: paste
+      code: 0xF0EA
+    - glyph: glyphs/pause.svg
+      name: pause
+      code: 0xF04C
+    - glyph: glyphs/pause-circle.svg
+      name: pause_circle
+      code: 0xF28B
+    - glyph: glyphs/pause-circle-o.svg
+      name: pause_circle_o
+      code: 0xF28C
+    - glyph: glyphs/paw.svg
+      name: paw
+      code: 0xF1B0
+    - glyph: glyphs/paypal.svg
+      name: paypal
+      code: 0xF1ED
+    - glyph: glyphs/pencil.svg
+      name: pencil
+      code: 0xF040
+    - glyph: glyphs/pencil-square.svg
+      name: pencil_square
+      code: 0xF14B
+    - glyph: glyphs/pencil-square-o.svg
+      name: pencil_square_o
+      code: 0xF044
+    - glyph: glyphs/percent.svg
+      name: percent
+      code: 0xF295
+    - glyph: glyphs/phone.svg
+      name: phone
+      code: 0xF095
+    - glyph: glyphs/phone-square.svg
+      name: phone_square
+      code: 0xF098
+    - glyph: glyphs/photo.svg
+      name: photo
+      code: 0xF03E
+    - glyph: glyphs/picture-o.svg
+      name: picture_o
+      code: 0xF03E
+    - glyph: glyphs/pie-chart.svg
+      name: pie_chart
+      code: 0xF200
+    - glyph: glyphs/pied-piper.svg
+      name: pied_piper
+      code: 0xF2AE
+    - glyph: glyphs/pied-piper-alt.svg
+      name: pied_piper_alt
+      code: 0xF1A8
+    - glyph: glyphs/pied-piper-pp.svg
+      name: pied_piper_pp
+      code: 0xF1A7
+    - glyph: glyphs/pinterest.svg
+      name: pinterest
+      code: 0xF0D2
+    - glyph: glyphs/pinterest-p.svg
+      name: pinterest_p
+      code: 0xF231
+    - glyph: glyphs/pinterest-square.svg
+      name: pinterest_square
+      code: 0xF0D3
+    - glyph: glyphs/plane.svg
+      name: plane
+      code: 0xF072
+    - glyph: glyphs/play.svg
+      name: play
+      code: 0xF04B
+    - glyph: glyphs/play-circle.svg
+      name: play_circle
+      code: 0xF144
+    - glyph: glyphs/play-circle-o.svg
+      name: play_circle_o
+      code: 0xF01D
+    - glyph: glyphs/plug.svg
+      name: plug
+      code: 0xF1E6
+    - glyph: glyphs/plus.svg
+      name: plus
+      code: 0xF067
+    - glyph: glyphs/plus-circle.svg
+      name: plus_circle
+      code: 0xF055
+    - glyph: glyphs/plus-square.svg
+      name: plus_square
+      code: 0xF0FE
+    - glyph: glyphs/plus-square-o.svg
+      name: plus_square_o
+      code: 0xF196
+    - glyph: glyphs/podcast.svg
+      name: podcast
+      code: 0xF2CE
+    - glyph: glyphs/power-off.svg
+      name: power_off
+      code: 0xF011
+    - glyph: glyphs/print.svg
+      name: print
+      code: 0xF02F
+    - glyph: glyphs/product-hunt.svg
+      name: product_hunt
+      code: 0xF288
+    - glyph: glyphs/puzzle-piece.svg
+      name: puzzle_piece
+      code: 0xF12E
+    - glyph: glyphs/qq.svg
+      name: qq
+      code: 0xF1D6
+    - glyph: glyphs/qrcode.svg
+      name: qrcode
+      code: 0xF029
+    - glyph: glyphs/question.svg
+      name: question
+      code: 0xF128
+    - glyph: glyphs/question-circle.svg
+      name: question_circle
+      code: 0xF059
+    - glyph: glyphs/question-circle-o.svg
+      name: question_circle_o
+      code: 0xF29C
+    - glyph: glyphs/quora.svg
+      name: quora
+      code: 0xF2C4
+    - glyph: glyphs/quote-left.svg
+      name: quote_left
+      code: 0xF10D
+    - glyph: glyphs/quote-right.svg
+      name: quote_right
+      code: 0xF10E
+    - glyph: glyphs/ra.svg
+      name: ra
+      code: 0xF1D0
+    - glyph: glyphs/random.svg
+      name: random
+      code: 0xF074
+    - glyph: glyphs/ravelry.svg
+      name: ravelry
+      code: 0xF2D9
+    - glyph: glyphs/rebel.svg
+      name: rebel
+      code: 0xF1D0
+    - glyph: glyphs/recycle.svg
+      name: recycle
+      code: 0xF1B8
+    - glyph: glyphs/reddit.svg
+      name: reddit
+      code: 0xF1A1
+    - glyph: glyphs/reddit-alien.svg
+      name: reddit_alien
+      code: 0xF281
+    - glyph: glyphs/reddit-square.svg
+      name: reddit_square
+      code: 0xF1A2
+    - glyph: glyphs/refresh.svg
+      name: refresh
+      code: 0xF021
+    - glyph: glyphs/registered.svg
+      name: registered
+      code: 0xF25D
+    - glyph: glyphs/remove.svg
+      name: remove
+      code: 0xF00D
+    - glyph: glyphs/renren.svg
+      name: renren
+      code: 0xF18B
+    - glyph: glyphs/reorder.svg
+      name: reorder
+      code: 0xF0C9
+    - glyph: glyphs/repeat.svg
+      name: repeat
+      code: 0xF01E
+    - glyph: glyphs/reply.svg
+      name: reply
+      code: 0xF112
+    - glyph: glyphs/reply-all.svg
+      name: reply_all
+      code: 0xF122
+    - glyph: glyphs/resistance.svg
+      name: resistance
+      code: 0xF1D0
+    - glyph: glyphs/retweet.svg
+      name: retweet
+      code: 0xF079
+    - glyph: glyphs/rmb.svg
+      name: rmb
+      code: 0xF157
+    - glyph: glyphs/road.svg
+      name: road
+      code: 0xF018
+    - glyph: glyphs/rocket.svg
+      name: rocket
+      code: 0xF135
+    - glyph: glyphs/rotate-left.svg
+      name: rotate_left
+      code: 0xF0E2
+    - glyph: glyphs/rotate-right.svg
+      name: rotate_right
+      code: 0xF01E
+    - glyph: glyphs/rouble.svg
+      name: rouble
+      code: 0xF158
+    - glyph: glyphs/rss.svg
+      name: rss
+      code: 0xF09E
+    - glyph: glyphs/rss-square.svg
+      name: rss_square
+      code: 0xF143
+    - glyph: glyphs/rub.svg
+      name: rub
+      code: 0xF158
+    - glyph: glyphs/ruble.svg
+      name: ruble
+      code: 0xF158
+    - glyph: glyphs/rupee.svg
+      name: rupee
+      code: 0xF156
+    - glyph: glyphs/s15.svg
+      name: s15
+      code: 0xF2CD
+    - glyph: glyphs/safari.svg
+      name: safari
+      code: 0xF267
+    - glyph: glyphs/save.svg
+      name: save
+      code: 0xF0C7
+    - glyph: glyphs/scissors.svg
+      name: scissors
+      code: 0xF0C4
+    - glyph: glyphs/scribd.svg
+      name: scribd
+      code: 0xF28A
+    - glyph: glyphs/search.svg
+      name: search
+      code: 0xF002
+    - glyph: glyphs/search-minus.svg
+      name: search_minus
+      code: 0xF010
+    - glyph: glyphs/search-plus.svg
+      name: search_plus
+      code: 0xF00E
+    - glyph: glyphs/sellsy.svg
+      name: sellsy
+      code: 0xF213
+    - glyph: glyphs/send.svg
+      name: send
+      code: 0xF1D8
+    - glyph: glyphs/send-o.svg
+      name: send_o
+      code: 0xF1D9
+    - glyph: glyphs/server.svg
+      name: server
+      code: 0xF233
+    - glyph: glyphs/share.svg
+      name: share
+      code: 0xF064
+    - glyph: glyphs/share-alt.svg
+      name: share_alt
+      code: 0xF1E0
+    - glyph: glyphs/share-alt-square.svg
+      name: share_alt_square
+      code: 0xF1E1
+    - glyph: glyphs/share-square.svg
+      name: share_square
+      code: 0xF14D
+    - glyph: glyphs/share-square-o.svg
+      name: share_square_o
+      code: 0xF045
+    - glyph: glyphs/shekel.svg
+      name: shekel
+      code: 0xF20B
+    - glyph: glyphs/sheqel.svg
+      name: sheqel
+      code: 0xF20B
+    - glyph: glyphs/shield.svg
+      name: shield
+      code: 0xF132
+    - glyph: glyphs/ship.svg
+      name: ship
+      code: 0xF21A
+    - glyph: glyphs/shirtsinbulk.svg
+      name: shirtsinbulk
+      code: 0xF214
+    - glyph: glyphs/shopping-bag.svg
+      name: shopping_bag
+      code: 0xF290
+    - glyph: glyphs/shopping-basket.svg
+      name: shopping_basket
+      code: 0xF291
+    - glyph: glyphs/shopping-cart.svg
+      name: shopping_cart
+      code: 0xF07A
+    - glyph: glyphs/shower.svg
+      name: shower
+      code: 0xF2CC
+    - glyph: glyphs/sign-in.svg
+      name: sign_in
+      code: 0xF090
+    - glyph: glyphs/sign-language.svg
+      name: sign_language
+      code: 0xF2A7
+    - glyph: glyphs/sign-out.svg
+      name: sign_out
+      code: 0xF08B
+    - glyph: glyphs/signal.svg
+      name: signal
+      code: 0xF012
+    - glyph: glyphs/signing.svg
+      name: signing
+      code: 0xF2A7
+    - glyph: glyphs/simplybuilt.svg
+      name: simplybuilt
+      code: 0xF215
+    - glyph: glyphs/sitemap.svg
+      name: sitemap
+      code: 0xF0E8
+    - glyph: glyphs/skyatlas.svg
+      name: skyatlas
+      code: 0xF216
+    - glyph: glyphs/skype.svg
+      name: skype
+      code: 0xF17E
+    - glyph: glyphs/slack.svg
+      name: slack
+      code: 0xF198
+    - glyph: glyphs/sliders.svg
+      name: sliders
+      code: 0xF1DE
+    - glyph: glyphs/slideshare.svg
+      name: slideshare
+      code: 0xF1E7
+    - glyph: glyphs/smile-o.svg
+      name: smile_o
+      code: 0xF118
+    - glyph: glyphs/snapchat.svg
+      name: snapchat
+      code: 0xF2AB
+    - glyph: glyphs/snapchat-ghost.svg
+      name: snapchat_ghost
+      code: 0xF2AC
+    - glyph: glyphs/snapchat-square.svg
+      name: snapchat_square
+      code: 0xF2AD
+    - glyph: glyphs/snowflake-o.svg
+      name: snowflake_o
+      code: 0xF2DC
+    - glyph: glyphs/soccer-ball-o.svg
+      name: soccer_ball_o
+      code: 0xF1E3
+    - glyph: glyphs/sort.svg
+      name: sort
+      code: 0xF0DC
+    - glyph: glyphs/sort-alpha-asc.svg
+      name: sort_alpha_asc
+      code: 0xF15D
+    - glyph: glyphs/sort-alpha-desc.svg
+      name: sort_alpha_desc
+      code: 0xF15E
+    - glyph: glyphs/sort-amount-asc.svg
+      name: sort_amount_asc
+      code: 0xF160
+    - glyph: glyphs/sort-amount-desc.svg
+      name: sort_amount_desc
+      code: 0xF161
+    - glyph: glyphs/sort-asc.svg
+      name: sort_asc
+      code: 0xF0DE
+    - glyph: glyphs/sort-desc.svg
+      name: sort_desc
+      code: 0xF0DD
+    - glyph: glyphs/sort-down.svg
+      name: sort_down
+      code: 0xF0DD
+    - glyph: glyphs/sort-numeric-asc.svg
+      name: sort_numeric_asc
+      code: 0xF162
+    - glyph: glyphs/sort-numeric-desc.svg
+      name: sort_numeric_desc
+      code: 0xF163
+    - glyph: glyphs/sort-up.svg
+      name: sort_up
+      code: 0xF0DE
+    - glyph: glyphs/soundcloud.svg
+      name: soundcloud
+      code: 0xF1BE
+    - glyph: glyphs/space-shuttle.svg
+      name: space_shuttle
+      code: 0xF197
+    - glyph: glyphs/spinner.svg
+      name: spinner
+      code: 0xF110
+    - glyph: glyphs/spoon.svg
+      name: spoon
+      code: 0xF1B1
+    - glyph: glyphs/spotify.svg
+      name: spotify
+      code: 0xF1BC
+    - glyph: glyphs/square.svg
+      name: square
+      code: 0xF0C8
+    - glyph: glyphs/square-o.svg
+      name: square_o
+      code: 0xF096
+    - glyph: glyphs/stack-exchange.svg
+      name: stack_exchange
+      code: 0xF18D
+    - glyph: glyphs/stack-overflow.svg
+      name: stack_overflow
+      code: 0xF16C
+    - glyph: glyphs/star.svg
+      name: star
+      code: 0xF005
+    - glyph: glyphs/star-half.svg
+      name: star_half
+      code: 0xF089
+    - glyph: glyphs/star-half-empty.svg
+      name: star_half_empty
+      code: 0xF123
+    - glyph: glyphs/star-half-full.svg
+      name: star_half_full
+      code: 0xF123
+    - glyph: glyphs/star-half-o.svg
+      name: star_half_o
+      code: 0xF123
+    - glyph: glyphs/star-o.svg
+      name: star_o
+      code: 0xF006
+    - glyph: glyphs/steam.svg
+      name: steam
+      code: 0xF1B6
+    - glyph: glyphs/steam-square.svg
+      name: steam_square
+      code: 0xF1B7
+    - glyph: glyphs/step-backward.svg
+      name: step_backward
+      code: 0xF048
+    - glyph: glyphs/step-forward.svg
+      name: step_forward
+      code: 0xF051
+    - glyph: glyphs/stethoscope.svg
+      name: stethoscope
+      code: 0xF0F1
+    - glyph: glyphs/sticky-note.svg
+      name: sticky_note
+      code: 0xF249
+    - glyph: glyphs/sticky-note-o.svg
+      name: sticky_note_o
+      code: 0xF24A
+    - glyph: glyphs/stop.svg
+      name: stop
+      code: 0xF04D
+    - glyph: glyphs/stop-circle.svg
+      name: stop_circle
+      code: 0xF28D
+    - glyph: glyphs/stop-circle-o.svg
+      name: stop_circle_o
+      code: 0xF28E
+    - glyph: glyphs/street-view.svg
+      name: street_view
+      code: 0xF21D
+    - glyph: glyphs/strikethrough.svg
+      name: strikethrough
+      code: 0xF0CC
+    - glyph: glyphs/stumbleupon.svg
+      name: stumbleupon
+      code: 0xF1A4
+    - glyph: glyphs/stumbleupon-circle.svg
+      name: stumbleupon_circle
+      code: 0xF1A3
+    - glyph: glyphs/subscript.svg
+      name: subscript
+      code: 0xF12C
+    - glyph: glyphs/subway.svg
+      name: subway
+      code: 0xF239
+    - glyph: glyphs/suitcase.svg
+      name: suitcase
+      code: 0xF0F2
+    - glyph: glyphs/sun-o.svg
+      name: sun_o
+      code: 0xF185
+    - glyph: glyphs/superpowers.svg
+      name: superpowers
+      code: 0xF2DD
+    - glyph: glyphs/superscript.svg
+      name: superscript
+      code: 0xF12B
+    - glyph: glyphs/support.svg
+      name: support
+      code: 0xF1CD
+    - glyph: glyphs/table.svg
+      name: table
+      code: 0xF0CE
+    - glyph: glyphs/tablet.svg
+      name: tablet
+      code: 0xF10A
+    - glyph: glyphs/tachometer.svg
+      name: tachometer
+      code: 0xF0E4
+    - glyph: glyphs/tag.svg
+      name: tag
+      code: 0xF02B
+    - glyph: glyphs/tags.svg
+      name: tags
+      code: 0xF02C
+    - glyph: glyphs/tasks.svg
+      name: tasks
+      code: 0xF0AE
+    - glyph: glyphs/taxi.svg
+      name: taxi
+      code: 0xF1BA
+    - glyph: glyphs/telegram.svg
+      name: telegram
+      code: 0xF2C6
+    - glyph: glyphs/television.svg
+      name: television
+      code: 0xF26C
+    - glyph: glyphs/tencent-weibo.svg
+      name: tencent_weibo
+      code: 0xF1D5
+    - glyph: glyphs/terminal.svg
+      name: terminal
+      code: 0xF120
+    - glyph: glyphs/text-height.svg
+      name: text_height
+      code: 0xF034
+    - glyph: glyphs/text-width.svg
+      name: text_width
+      code: 0xF035
+    - glyph: glyphs/th.svg
+      name: th
+      code: 0xF00A
+    - glyph: glyphs/th-large.svg
+      name: th_large
+      code: 0xF009
+    - glyph: glyphs/th-list.svg
+      name: th_list
+      code: 0xF00B
+    - glyph: glyphs/themeisle.svg
+      name: themeisle
+      code: 0xF2B2
+    - glyph: glyphs/thermometer.svg
+      name: thermometer
+      code: 0xF2C7
+    - glyph: glyphs/thermometer-0.svg
+      name: thermometer_0
+      code: 0xF2CB
+    - glyph: glyphs/thermometer-1.svg
+      name: thermometer_1
+      code: 0xF2CA
+    - glyph: glyphs/thermometer-2.svg
+      name: thermometer_2
+      code: 0xF2C9
+    - glyph: glyphs/thermometer-3.svg
+      name: thermometer_3
+      code: 0xF2C8
+    - glyph: glyphs/thermometer-4.svg
+      name: thermometer_4
+      code: 0xF2C7
+    - glyph: glyphs/thermometer-empty.svg
+      name: thermometer_empty
+      code: 0xF2CB
+    - glyph: glyphs/thermometer-full.svg
+      name: thermometer_full
+      code: 0xF2C7
+    - glyph: glyphs/thermometer-half.svg
+      name: thermometer_half
+      code: 0xF2C9
+    - glyph: glyphs/thermometer-quarter.svg
+      name: thermometer_quarter
+      code: 0xF2CA
+    - glyph: glyphs/thermometer-three-quarters.svg
+      name: thermometer_three_quarters
+      code: 0xF2C8
+    - glyph: glyphs/thumb-tack.svg
+      name: thumb_tack
+      code: 0xF08D
+    - glyph: glyphs/thumbs-down.svg
+      name: thumbs_down
+      code: 0xF165
+    - glyph: glyphs/thumbs-o-down.svg
+      name: thumbs_o_down
+      code: 0xF088
+    - glyph: glyphs/thumbs-o-up.svg
+      name: thumbs_o_up
+      code: 0xF087
+    - glyph: glyphs/thumbs-up.svg
+      name: thumbs_up
+      code: 0xF164
+    - glyph: glyphs/ticket.svg
+      name: ticket
+      code: 0xF145
+    - glyph: glyphs/times.svg
+      name: times
+      code: 0xF00D
+    - glyph: glyphs/times-circle.svg
+      name: times_circle
+      code: 0xF057
+    - glyph: glyphs/times-circle-o.svg
+      name: times_circle_o
+      code: 0xF05C
+    - glyph: glyphs/times-rectangle.svg
+      name: times_rectangle
+      code: 0xF2D3
+    - glyph: glyphs/times-rectangle-o.svg
+      name: times_rectangle_o
+      code: 0xF2D4
+    - glyph: glyphs/tint.svg
+      name: tint
+      code: 0xF043
+    - glyph: glyphs/toggle-down.svg
+      name: toggle_down
+      code: 0xF150
+    - glyph: glyphs/toggle-left.svg
+      name: toggle_left
+      code: 0xF191
+    - glyph: glyphs/toggle-off.svg
+      name: toggle_off
+      code: 0xF204
+    - glyph: glyphs/toggle-on.svg
+      name: toggle_on
+      code: 0xF205
+    - glyph: glyphs/toggle-right.svg
+      name: toggle_right
+      code: 0xF152
+    - glyph: glyphs/toggle-up.svg
+      name: toggle_up
+      code: 0xF151
+    - glyph: glyphs/trademark.svg
+      name: trademark
+      code: 0xF25C
+    - glyph: glyphs/train.svg
+      name: train
+      code: 0xF238
+    - glyph: glyphs/transgender.svg
+      name: transgender
+      code: 0xF224
+    - glyph: glyphs/transgender-alt.svg
+      name: transgender_alt
+      code: 0xF225
+    - glyph: glyphs/trash.svg
+      name: trash
+      code: 0xF1F8
+    - glyph: glyphs/trash-o.svg
+      name: trash_o
+      code: 0xF014
+    - glyph: glyphs/tree.svg
+      name: tree
+      code: 0xF1BB
+    - glyph: glyphs/trello.svg
+      name: trello
+      code: 0xF181
+    - glyph: glyphs/tripadvisor.svg
+      name: tripadvisor
+      code: 0xF262
+    - glyph: glyphs/trophy.svg
+      name: trophy
+      code: 0xF091
+    - glyph: glyphs/truck.svg
+      name: truck
+      code: 0xF0D1
+    - glyph: glyphs/try.svg
+      name: try
+      code: 0xF195
+    - glyph: glyphs/tty.svg
+      name: tty
+      code: 0xF1E4
+    - glyph: glyphs/tumblr.svg
+      name: tumblr
+      code: 0xF173
+    - glyph: glyphs/tumblr-square.svg
+      name: tumblr_square
+      code: 0xF174
+    - glyph: glyphs/turkish-lira.svg
+      name: turkish_lira
+      code: 0xF195
+    - glyph: glyphs/tv.svg
+      name: tv
+      code: 0xF26C
+    - glyph: glyphs/twitch.svg
+      name: twitch
+      code: 0xF1E8
+    - glyph: glyphs/twitter.svg
+      name: twitter
+      code: 0xF099
+    - glyph: glyphs/twitter-square.svg
+      name: twitter_square
+      code: 0xF081
+    - glyph: glyphs/umbrella.svg
+      name: umbrella
+      code: 0xF0E9
+    - glyph: glyphs/underline.svg
+      name: underline
+      code: 0xF0CD
+    - glyph: glyphs/undo.svg
+      name: undo
+      code: 0xF0E2
+    - glyph: glyphs/universal-access.svg
+      name: universal_access
+      code: 0xF29A
+    - glyph: glyphs/university.svg
+      name: university
+      code: 0xF19C
+    - glyph: glyphs/unlink.svg
+      name: unlink
+      code: 0xF127
+    - glyph: glyphs/unlock.svg
+      name: unlock
+      code: 0xF09C
+    - glyph: glyphs/unlock-alt.svg
+      name: unlock_alt
+      code: 0xF13E
+    - glyph: glyphs/unsorted.svg
+      name: unsorted
+      code: 0xF0DC
+    - glyph: glyphs/upload.svg
+      name: upload
+      code: 0xF093
+    - glyph: glyphs/usb.svg
+      name: usb
+      code: 0xF287
+    - glyph: glyphs/usd.svg
+      name: usd
+      code: 0xF155
+    - glyph: glyphs/user.svg
+      name: user
+      code: 0xF007
+    - glyph: glyphs/user-circle.svg
+      name: user_circle
+      code: 0xF2BD
+    - glyph: glyphs/user-circle-o.svg
+      name: user_circle_o
+      code: 0xF2BE
+    - glyph: glyphs/user-md.svg
+      name: user_md
+      code: 0xF0F0
+    - glyph: glyphs/user-o.svg
+      name: user_o
+      code: 0xF2C0
+    - glyph: glyphs/user-plus.svg
+      name: user_plus
+      code: 0xF234
+    - glyph: glyphs/user-secret.svg
+      name: user_secret
+      code: 0xF21B
+    - glyph: glyphs/user-times.svg
+      name: user_times
+      code: 0xF235
+    - glyph: glyphs/users.svg
+      name: users
+      code: 0xF0C0
+    - glyph: glyphs/vcard.svg
+      name: vcard
+      code: 0xF2BB
+    - glyph: glyphs/vcard-o.svg
+      name: vcard_o
+      code: 0xF2BC
+    - glyph: glyphs/venus.svg
+      name: venus
+      code: 0xF221
+    - glyph: glyphs/venus-double.svg
+      name: venus_double
+      code: 0xF226
+    - glyph: glyphs/venus-mars.svg
+      name: venus_mars
+      code: 0xF228
+    - glyph: glyphs/viacoin.svg
+      name: viacoin
+      code: 0xF237
+    - glyph: glyphs/viadeo.svg
+      name: viadeo
+      code: 0xF2A9
+    - glyph: glyphs/viadeo-square.svg
+      name: viadeo_square
+      code: 0xF2AA
+    - glyph: glyphs/video-camera.svg
+      name: video_camera
+      code: 0xF03D
+    - glyph: glyphs/vimeo.svg
+      name: vimeo
+      code: 0xF27D
+    - glyph: glyphs/vimeo-square.svg
+      name: vimeo_square
+      code: 0xF194
+    - glyph: glyphs/vine.svg
+      name: vine
+      code: 0xF1CA
+    - glyph: glyphs/vk.svg
+      name: vk
+      code: 0xF189
+    - glyph: glyphs/volume-control-phone.svg
+      name: volume_control_phone
+      code: 0xF2A0
+    - glyph: glyphs/volume-down.svg
+      name: volume_down
+      code: 0xF027
+    - glyph: glyphs/volume-off.svg
+      name: volume_off
+      code: 0xF026
+    - glyph: glyphs/volume-up.svg
+      name: volume_up
+      code: 0xF028
+    - glyph: glyphs/warning.svg
+      name: warning
+      code: 0xF071
+    - glyph: glyphs/wechat.svg
+      name: wechat
+      code: 0xF1D7
+    - glyph: glyphs/weibo.svg
+      name: weibo
+      code: 0xF18A
+    - glyph: glyphs/weixin.svg
+      name: weixin
+      code: 0xF1D7
+    - glyph: glyphs/whatsapp.svg
+      name: whatsapp
+      code: 0xF232
+    - glyph: glyphs/wheelchair.svg
+      name: wheelchair
+      code: 0xF193
+    - glyph: glyphs/wheelchair-alt.svg
+      name: wheelchair_alt
+      code: 0xF29B
+    - glyph: glyphs/wifi.svg
+      name: wifi
+      code: 0xF1EB
+    - glyph: glyphs/wikipedia-w.svg
+      name: wikipedia_w
+      code: 0xF266
+    - glyph: glyphs/window-close.svg
+      name: window_close
+      code: 0xF2D3
+    - glyph: glyphs/window-close-o.svg
+      name: window_close_o
+      code: 0xF2D4
+    - glyph: glyphs/window-maximize.svg
+      name: window_maximize
+      code: 0xF2D0
+    - glyph: glyphs/window-minimize.svg
+      name: window_minimize
+      code: 0xF2D1
+    - glyph: glyphs/window-restore.svg
+      name: window_restore
+      code: 0xF2D2
+    - glyph: glyphs/windows.svg
+      name: windows
+      code: 0xF17A
+    - glyph: glyphs/won.svg
+      name: won
+      code: 0xF159
+    - glyph: glyphs/wordpress.svg
+      name: wordpress
+      code: 0xF19A
+    - glyph: glyphs/wpbeginner.svg
+      name: wpbeginner
+      code: 0xF297
+    - glyph: glyphs/wpexplorer.svg
+      name: wpexplorer
+      code: 0xF2DE
+    - glyph: glyphs/wpforms.svg
+      name: wpforms
+      code: 0xF298
+    - glyph: glyphs/wrench.svg
+      name: wrench
+      code: 0xF0AD
+    - glyph: glyphs/xing.svg
+      name: xing
+      code: 0xF168
+    - glyph: glyphs/xing-square.svg
+      name: xing_square
+      code: 0xF169
+    - glyph: glyphs/y-combinator.svg
+      name: y_combinator
+      code: 0xF23B
+    - glyph: glyphs/y-combinator-square.svg
+      name: y_combinator_square
+      code: 0xF1D4
+    - glyph: glyphs/yahoo.svg
+      name: yahoo
+      code: 0xF19E
+    - glyph: glyphs/yc.svg
+      name: yc
+      code: 0xF23B
+    - glyph: glyphs/yc-square.svg
+      name: yc_square
+      code: 0xF1D4
+    - glyph: glyphs/yelp.svg
+      name: yelp
+      code: 0xF1E9
+    - glyph: glyphs/yen.svg
+      name: yen
+      code: 0xF157
+    - glyph: glyphs/yoast.svg
+      name: yoast
+      code: 0xF2B1
+    - glyph: glyphs/youtube.svg
+      name: youtube
+      code: 0xF167
+    - glyph: glyphs/youtube-play.svg
+      name: youtube_play
+      code: 0xF16A
+    - glyph: glyphs/youtube-square.svg
+      name: youtube_square
+      code: 0xF166
