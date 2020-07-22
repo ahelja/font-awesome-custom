@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "glyphs2font config.yml"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ahelja/font-awesome-custom/issues"
   },
-  "homepage": "https://github.com/ahelja/font-awesome-custom#readme"
+  "homepage": "https://github.com/ahelja/font-awesome-custom#readme",
+  "dependencies": {
+    "glyphs2font": "^1.2.2"
+  }
 }
